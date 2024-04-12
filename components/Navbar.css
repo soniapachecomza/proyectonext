@@ -1,0 +1,15 @@
+.Navbar{
+    background: #e063c5;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem;
+    align-items: center;
+}
+.Navbar ul{
+    display: flex;
+    gap: 1rem;
+    margin-right: 2rem;
+}
+.Navbar ul li{
+    list-style: none;
+}
